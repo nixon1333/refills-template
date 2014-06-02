@@ -1816,7 +1816,7 @@ header.navigation {
   background-size: cover;
   padding-bottom: 4em; }
   .hero .hero-logo img {
-    height: 3em;
+    height: 9em;
     margin-bottom: 1em; }
   .hero .hero-inner {
     max-width: 68em;
@@ -1885,7 +1885,7 @@ header.navigation {
         @media screen and (min-width: 53.75em) {
           .hero .hero-inner .hero-copy p {
             font-size: 1.2em;
-            max-width: 40%; } }
+            max-width: 49%; } }
 
 .footer {
   background: #799db5;
